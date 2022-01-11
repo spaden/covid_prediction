@@ -10,7 +10,7 @@ Please refer https://github.com/spaden/covid_prediction/blob/main/total_cases_30
 
 
 
-New Cases for the next 300 days. We could observe a spike of rising cases from June/July 2022 again.
+New Cases for the next 300 days. We could observe a spike of rising cases from June/July 2022 again. And regarding the current spike, the model predicts the current wave to end in the month of March approximately.
 
 ![alt text](https://raw.githubusercontent.com/spaden/covid_prediction/main/new_cases_over_next_300days.png?raw=true)
 
