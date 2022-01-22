@@ -10,17 +10,17 @@ Please refer https://github.com/spaden/covid_prediction/blob/main/total_cases_30
 
 
 
-New Cases for the next 300 days. We could observe a spike of rising cases from July/August 2022 again. And regarding the current spike, the model predicts the current wave to end in the month of March approximately.
+New Cases for the next 300 days. We could observe a spike of rising cases from July/August 2022 again. And regarding the current spike, the model predicts the current wave to end in the month of March approximately. (Multivariate prediction)
 
 ![alt text](https://raw.githubusercontent.com/spaden/covid_prediction/main/covid_predection.jpg?raw=true)
 
 
 
-Vaccination prediction for the next 300 days.
+Vaccination prediction for the next 300 days (simplivariate prediction).
 
 ![alt text](https://raw.githubusercontent.com/spaden/covid_prediction/main/new_vaccinations_over_next_300days.png?raw=true)
 
 
-Deaths Prediction for the next 300 days.
+Deaths Prediction for the next 300 days (simplivariate prediction)
 
 ![alt text](https://raw.githubusercontent.com/spaden/covid_prediction/main/new_deaths_over_next_300days.png?raw=true)
